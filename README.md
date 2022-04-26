@@ -18,3 +18,7 @@ Criptdle: https://criptdle.com/
 
 # Link del primer smart contract
 https://segunda-parte-criptdle.vercel.app/
+
+# Proyecto terminado (;
+le agregamos un par de mejoras para que pueda traer una palabra al azar, y a base de está ver si ya fue utilizada o no.
+Otra función agregada es la de marcar la palabra usada.
