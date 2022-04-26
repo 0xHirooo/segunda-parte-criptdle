@@ -17,7 +17,7 @@ Solow: https://solow.io/
 Criptdle: https://criptdle.com/
 
 # Link del primer smart contract
-https://segunda-parte-criptdle.vercel.app/
+https://criptdle-haiiro.vercel.app/
 
 # Proyecto terminado (;
 le agregamos un par de mejoras para que pueda traer una palabra al azar, y a base de está ver si ya fue utilizada o no.
