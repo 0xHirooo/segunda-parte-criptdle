@@ -120,7 +120,7 @@ input {
 .Words li {
   font-size: 30px;
   text-transform: uppercase;
-  color: rgb(255, 255, 255);
+  color: white;
   font-weight: 700;
   text-shadow: 2px 2px black;
 }
@@ -140,3 +140,17 @@ input {
   0% { transform: rotate(0deg); }
   100% { transform: rotate(360deg); }
 }
+
+.Words2 {
+  list-style: none;
+  padding: 0;
+}
+
+.Words2 li {
+  font-size: 20px;
+  color: white;
+  font-weight: 700;
+  text-shadow: 2px 2px black;
+}
+
+
